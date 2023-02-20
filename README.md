@@ -5,8 +5,8 @@ Build application using Node JS package. use this application like add, remove ,
 
 1. **Add**      : User can add notes in application title and body.
 2. **Remove** : User can remove unused notes by providing the title of notes.
-3.**List**     : User can list out all notes which are created.
-4.**Read**    : The user has the choice to read a certain note's content by entering its title.
+3. **List**     : User can list out all notes which are created.
+4. **Read**    : The user has the choice to read a certain note's content by entering its title.
 
 ## Feature
 -It will not add duplicate files.
