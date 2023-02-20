@@ -1,9 +1,9 @@
-#Note_application-Node-.JS
+# Note_application-Node-.JS
 Build application using Node JS package. use this application like add, remove ,list-out and read all notes.
 
-#Function: User can work on some task with Node JS application.
+# Function: User can work on some task with Node JS application.
 
-1. *Add*      : User can add notes in application title and body.
+1. **Add**      : User can add notes in application title and body.
 2. **Remove** : User can remove unused notes by providing the title of notes.
 3.**List**     : User can list out all notes which are created.
 4.**Read**    : The user has the choice to read a certain note's content by entering its title.
